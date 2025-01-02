@@ -22,21 +22,21 @@ repository               : "alxjshalek/alxjshalek.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Josh Aleksanyan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "New York, NY"
   employer         : "NYU SoM"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "joshua.aleksanyan@nyulangone.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=VVDsjfIAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Aleksanyan+J&cauthor_id=39141672"
   researchgate     : # URL
   scopus           : # URL
 
